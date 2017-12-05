@@ -1,0 +1,38 @@
+#products {
+  h2 {
+    text-transform: uppercase;
+  }
+  .pagination {
+    margin-top: 8px;
+  }
+  button {
+    float: left;
+    margin-left: 16px;
+    padding: 8px;
+    i {
+      margin-right: 8px;
+      font-size: 16px;
+    }
+  }
+  .brief {
+    text-transform: capitalize;
+    margin-left: 15px;
+  }
+  .editarItem {
+    margin: 24px 0;
+  }
+  .stockItem {
+    text-decoration: underline;
+  }
+  .stock {
+    label {
+      width: 30%;
+      margin: 8px 0;
+      text-align: right;
+      p {
+        display: inline-block;
+        margin-right: 12px;
+      }
+    }
+  }
+}
